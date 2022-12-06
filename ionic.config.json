@@ -1,0 +1,7 @@
+{
+  "name": "HutanginApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
